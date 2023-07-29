@@ -1,3 +1,13 @@
+API website: https://www.themoviedb.org/settings/api
+
+API key: f412844aa93370b2cd41ce590699c2f3
+
+search API: 'https://api.themoviedb.org/3/search/movie?&api_key=f412844aa93370b2cd41ce590699c2f3&query='
+
+images: 'https://image.tmdb.org/t/p/w1280'
+
+featured: 'https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=f412844aa93370b2cd41ce590699c2f3&page=1'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
