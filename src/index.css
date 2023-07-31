@@ -8,9 +8,16 @@
 body {
     background-color: #22254b;
     font-family: 'Poppins', sans-serif;
+    color: white;
+
+    font-family: 'Poppins', sans-serif;
     margin: 0;
 }
 
+.root {
+    display: flex;
+    flex-direction: column;
+}
 .movie-container {
     display: flex;
     flex-wrap: wrap;
