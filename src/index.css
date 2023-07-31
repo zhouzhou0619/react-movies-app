@@ -11,6 +11,11 @@ body {
     margin: 0;
 }
 
+.movie-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 header {
     background-color: #373b69;
     display: flex;
@@ -45,11 +50,11 @@ main {
 .movie {
     background-color: #373b69;
     border-radius: 3px;
-    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     position: relative;
     margin: 1rem;
-    width: 300px;
+    width: 250px;
 }
 
 .movie img {
