@@ -1,3 +1,35 @@
+# :smiling_imp: MOVIE-APP: For movie fans! :moneybag:
+:imp: This app helps you to view recent movies and search for previous movies. For each movie card you can see ratings and movie overview.
+
+## :yen: Main Functions
+:moneybag: View Movies recently
+:moneybag: View Overview of each movie
+:moneybag: Check average rating
+:moneybag: Search other movies by enter keywords  
+
+## :euro: Feature
+:moneybag: Easy to use  
+:moneybag: Easy to check recently movies, overview and rating  
+:moneybag: Beginner friendly  
+:moneybag: Search your favorite movies easily
+
+## :dollar: How to use?
+:moneybag: Move the mouse to the movie which you interested on the screen  
+:moneybag: Check the average rating and overview of recently movies  
+:moneybag: Enter the keywords on the left top search bar  
+:moneybag: Check the movies' overview and rating    
+:moneybag: Initially judge the quality of the movie based on the color of the different ratings.    
+:moneybag: Green: Great! Yellow: Good! Red: barely satisfactory~     
+:moneybag: Some older movies (including movies without posters) will have default posters presented on the screen.    
+ 
+
+## :pound: Environment
+:moneybag: VS Code  
+:moneybag: React  
+
+
+## :moneybag: Use APIs to ensure data is updated in real time: 
+
 API website: https://www.themoviedb.org/settings/api
 
 API key: f412844aa93370b2cd41ce590699c2f3
